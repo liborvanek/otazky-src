@@ -1,0 +1,668 @@
+[
+	{
+		"name": "Radiokomunikační předpisy",
+		"slug": "radiokomunikacni-predpisy",
+		"questions": [
+			{
+				"question": "Zajištění účelného využívání rádiových kmitočtů a správu rádiového spektra vykonává",
+				"answer": "Český telekomunikační úřad"
+			},
+			{
+				"question": "Radiokomunikační službou je komunikační činnost, která spočívá v přenosu, vysílání nebo příjmu signálů prostřednictvím",
+				"answer": "rádiových vln"
+			},
+			{
+				"question": "Plán přidělení kmitočtových pásem (národní kmitočtovou tabulku) stanoví",
+				"answer": "Ministerstvo průmyslu a obchodu vyhláškou"
+			},
+			{
+				"question": "Individuální oprávnění k vyžívání rádiových kmitočtů uděluje",
+				"answer": "Český telekomunikační úřad"
+			},
+			{
+				"question": "Držitel individuálního oprávnění k využívání rádiových kmitočtů je povinen platit za využívání rádiových kmitočtů",
+				"answer": "poplatek dle nařízení vlády o poplatcích"
+			},
+			{
+				"question": "Rádiovým spektrem se rozumí elektromagnetické vlny o kmitočtu (frekvenci)",
+				"answer": "nižším než 3000 GHz"
+			},
+			{
+				"question": "Státní kontrolu elektronických komunikací vykonává",
+				"answer": "Český telekomunikační úřad"
+			},
+			{
+				"question": "Fyzická osoba vykonávající obsluhu vysílacího rádiového zařízení bez platného průkazu odborné způsobilosti se dopustila",
+				"answer": "přestupku"
+			},
+			{
+				"question": "Za obsluhu vysílacího rádiového zařízení bez platného průkazu odborné způsobilosti může Úřad uložit fyzické osobě pokutu až do výše",
+				"answer": "100 000 Kč"
+			},
+			{
+				"question": "V mezinárodní volací značce České republiky tvoří první dvě písmena (prefix) vždy dvojice písmen",
+				"answer": "OK nebo OL"
+			},
+			{
+				"question": "Mezinárodní volací značka lodní stanice u plavidel zapsaných v námořním rejstříku ČR je",
+				"answer": "OL a další dvě písmena (případně OL a čtyři číslice u jachet)"
+			},
+			{
+				"question": "Volací značka OL5234 v radiotelefonním provozu je",
+				"answer": "volací značka lodní stanice"
+			},
+			{
+				"question": "Co znamená zkratka GMDSS?",
+				"answer": "celosvětový námořní tísňový a bezpečnostní systém"
+			},
+			{
+				"question": "Je podle mezinárodního práva plavidlo povinné poskytnout pomoc jinému plavidlu v tísni?",
+				"answer": "ano, pokud tím nadměrně neohrozí svou loď nebo posádku"
+			},
+			{
+				"question": "Falešné volací značky a falešné signály",
+				"answer": "se nesmí používat"
+			},
+			{
+				"question": "Pohyblivá stanice námořní pohyblivé služby je",
+				"answer": "lodní stanice"
+			},
+			{
+				"question": "Pohyblivá služba mezi pobřežními stanicemi a lodními stanicemi nebo mezi lodními stanicemi se nazývá",
+				"answer": "námořní pohyblivá služba"
+			},
+			{
+				"question": "Pořadí zpráv podle důležitosti je následující:",
+				"answer": "tísňová zpráva (DISTRESS), pilnostní zpráva (URGENCY), bezpečnostní zpráva (SAFETY)"
+			},
+			{
+				"question": "Nejvyšší prioritu a absolutní přednost má zpráva",
+				"answer": "tísňová (signál MAYDAY)"
+			},
+			{
+				"question": "Tísňové volání a tísňová zpráva se vysílají jen na rozkaz",
+				"answer": "velitele nebo osoby odpovědné za loď nebo letadlo "
+			},
+			{
+				"question": "Mezinárodní VKV (VHF) tísňový, bezpečnostní a volací kmitočet v radiotelefonii v námořní pohyblivé službě je",
+				"answer": "156,8 MHz (kanál 16)"
+			},
+			{
+				"question": "Kanál 16 v pásmu VKV (VHF) je v námořní pohyblivé službě určen k",
+				"answer": "tísňovému a pilnostnímu volání, upozornění na bezpečnostní volání a k navázání spojení s následným přeladěním na pracovní kanál."
+			},
+			{
+				"question": "Rádiové kmitočty z pásma 160 MHz spadají do pásma označovaného jako",
+				"answer": "VKV (VHF)"
+			},
+			{
+				"question": "Pátrací a záchrannou operaci na moři může ukončit",
+				"answer": "velitel (řídící stanice) pátrací a záchranné operace"
+			},
+			{
+				"question": "Pohyblivým stanicím na moři nebo nad mořem je zakázáno provozovat",
+				"answer": "rozhlasovou službu"
+			},
+			{
+				"question": "Služba u letadlové nebo lodní stanice podléhá nejvyšší pravomoci",
+				"answer": "velitele nebo osoby, která je odpovědná za letadlo nebo plavidlo"
+			},
+			{
+				"question": "Doba platnosti průkazů operátorů námořní pohyblivé služby LRC a SRC je při prvním vydání stanovena na",
+				"answer": "10 let"
+			},
+			{
+				"question": "O prodloužení doby platnosti průkazu odborné způsobilosti se žádá",
+				"answer": "písemně, minimálně jeden měsíc před koncem platnosti průkazu"
+			},
+			{
+				"question": "Při žádosti o prodloužení platnosti průkazu je třeba také",
+				"answer": "uhradit příslušný správní poplatek a doložit praxi v obsluze rádiových stanic"
+			},
+			{
+				"question": "V případě, že doba platnosti průkazu již uplynula, může držitel průkazu žádat o nový průkaz",
+				"answer": "v období do jednoho roku ode dne pozbytí platnosti průkazu"
+			},
+			{
+				"question": "Doba platnosti průkazů operátorů námořní pohyblivé služby se na základě žádosti držitele prodlužuje o",
+				"answer": "5 let"
+			},
+			{
+				"question": "První znak nebo první dva znaky mezinárodní volací značky označují",
+				"answer": "státní příslušnost stanice"
+			},
+			{
+				"question": "Stejná volací značka",
+				"answer": "nemůže být přidělena dvěma nebo více provozovatelům stanic"
+			},
+			{
+				"question": "Inspekční orgány zemí, které pohyblivá stanice (letadlo, plavidlo) navštíví",
+				"answer": "mohou vyžadovat předložení průkazu operátora"
+			},
+			{
+				"question": "Mezinárodní telekomunikační unie (ITU) je",
+				"answer": "specializovanou organizací Organizace spojených národů pro oblast telekomunikací"
+			},
+			{
+				"question": "Volací značkou je",
+				"answer": "každé poznávací označení stanice přidělené dle Radiokomunikačního řádu, které umožňuje zjištění její totožnosti během vysílání"
+			},
+			{
+				"question": "Mezi členy Regionální úmluvy o radiotelefonní službě na vnitrozemských vodních cestách (RAINWAT)",
+				"answer": "patří i Česká republika"
+			},
+			{
+				"question": "Vnitrozemský automatický identifikační systém (Inland AIS)",
+				"answer": "je součástí říčních informačních služeb a může být používán na vyhrazených rádiových kmitočtech"
+			},
+			{
+				"question": "AIS transpondér je rádiová stanice umožňující",
+				"answer": "příjem, vysílání a zpracování rádiového signálu automatického identifikačního systému"
+			},
+			{
+				"question": "Maximální povolený výkon lodní radiostanice vysílající v pásmu VKV (VHF) je:",
+				"answer": "25 W"
+			},
+			{
+				"question": "Telekomunikační tajemství se týká",
+				"answer": "všech osob, které znají obsah rádiových zpráv nebo se dověděly o jejich existenci či o zprávě, která byla doručena prostřednictvím radiokomunikační služby."
+			},
+			{
+				"question": "Každý, kdo se dozví informace o skutečnostech, které jsou předmětem telekomunikačního tajemství,",
+				"answer": "je povinen zachovávat o nich mlčenlivost."
+			},
+			{
+				"question": "Předmětem telekomunikačního tajemství je zejména",
+				"answer": "obsah zpráv přepravovaných nebo jinak zprostředkovaných telekomunikačními zařízeními a sítěmi s výjimkou zpráv určených veřejnosti."
+			}
+		]
+	},
+	{
+		"name": "Radiokomunikační provoz",
+		"slug": "radiokomunikacni-provoz",
+		"questions": [
+			{
+				"question": "Oblast pokrytá signálem alespoň jedné pobřežní VKV (VHF) radiotelefonní stanice, která zabezpečuje nepřetržitou pohotovost pro tísňová volání DSC v systému GMDSS, se označuje jako",
+				"answer": "námořní oblast A1"
+			},
+			{
+				"question": "RCC (Rescue Coordination Centre) je",
+				"answer": "orgán zodpovědný za účinnou organizaci pátracích a záchranných služeb (SAR) a za koordinaci SAR zásahů v dané oblasti"
+			},
+			{
+				"question": "Zkratka DSC znamená",
+				"answer": "Digital Selective Calling (digitální selektivní volání), tj. volání prostřednictvím digitálního přenosu signálu a s možností výběru volané stanice nebo stanic"
+			},
+			{
+				"question": "Jsou pro DSC určeny speciální kmitočty?",
+				"answer": "pro DSC je pásmu VKV (VHF) vyhrazen kanál č. 70, na němž je možné komunikovat pouze v rámci standardu DSC, fonický provoz je zablokován"
+			},
+			{
+				"question": "K označení identity lodní stanice v rámci DSC provozu se používá",
+				"answer": "devítimístný číselný kód MMSI (Maritime Mobile Service Identity)"
+			},
+			{
+				"question": "Dá se z MMSI lodní stanice poznat pod jakou vlajkou pluje?",
+				"answer": "ano, první tři číslice (MID) kódu lodní stanice označují stát, v němž je plavidlo registrováno"
+			},
+			{
+				"question": "Podle čeho je možné identifikovat MMSI náležející pobřežní stanici?",
+				"answer": "pobřežní stanice používají devítimístný MMSI kód, v němž se před MID (trojčíslí přidělené státu, z jehož území pobřežní stanice pracuje) předřadí dvě nuly"
+			},
+			{
+				"question": "Je možné se pomocí DSC spojit s definovanou skupinou lodních stanic?",
+				"answer": "DSC protokol umožňuje vyslat zprávu skupině lodních stanic na podkladě použití přiděleného skupinového MMSI"
+			},
+			{
+				"question": "MID České republiky je",
+				"answer": "270"
+			},
+			{
+				"question": "Pro volání skupiny lodích stanic se u MMSI před MID předřazuje",
+				"answer": "jedna nula"
+			},
+			{
+				"question": "Funkčnost VKV (VHF) zařízení DSC se ověřuje",
+				"answer": "pouze pomocí nabídky „SELF TEST“ jednou za den, „živé“ testování na kanálu 70 s jinou stanicí je zakázáno."
+			},
+			{
+				"question": "Jak probíhá potvrzení běžného (rutinního) pomocí DSC?",
+				"answer": "je nutné potvrdit nabídku spojení včetně čísla pracovního kanálu. Po odeslání potvrzení je další komunikace automaticky přepojena na vybraný pracovní kanál."
+			},
+			{
+				"question": "Aktivace tlačítka „DISTRESS“ (aktivace DSC volání)",
+				"answer": "stlačením tlačítka nepřetržitě po dobu několika sekund, dokud nedojde k odeslání DSC zprávy. Tlačítko je výrazně odlišeno a umístěno pod krytem"
+			},
+			{
+				"question": "Obsah tísňového volání DSC je následující:",
+				"answer": "identifikační údaj (MMSI), poziční informace, čas UTC a případně povaha tísně"
+			},
+			{
+				"question": "Přednastavený obsah tísňového volání DSC se vysílá",
+				"answer": "v situaci, kdy není čas na ruční vkládání dalších doplňujících údajů"
+			},
+			{
+				"question": "Způsob vkládání údajů o poloze do tísňového volání DSC",
+				"answer": "pokud je do radiostanice předepsaným způsobem propojen výstup z přijímače GNSS (např. GPS), je údaj o poloze včetně UTC aktualizován automaticky průběžně, jinak je možné vkládat tyto údaje ručně (dle instrukcí v manuálu stanice). "
+			},
+			{
+				"question": "Postup pro nastavení obsahu vysílání tísňového volání DSC",
+				"answer": "v nabídce MENU zvolit DISTRESS jako stupeň priority volání, zkontrolovat nebo vložit údaje o poloze včetně odpovídajícího času UTC, případně vložit povahu tísně. Po odeslání se stanice v tísni automaticky přepne na 16. kanál."
+			},
+			{
+				"question": "Opakování tísňového volání DSC",
+				"answer": "radiostanice opakuje vysílání DSC tísňového volání automaticky vždy po 4 minutách, dokud pobřežní stanice nezruší jeho další vysílání potvrzením příjmu cestou DSC nebo není vysílání zrušeno obsluhou stanice v tísni."
+			},
+			{
+				"question": "Proč má příjem tísňového volání DSC přednostně potvrdit pobřežní stanice?",
+				"answer": "protože disponuje optimálními technickými a organizačními předpoklady k řízení efektivní záchranné operace. Navíc sama může účinně aktivovat asistenci plavidel v okolí tísňové události včetně letecké podpory."
+			},
+			{
+				"question": "Účel tísňového volání DSC pobřežní stanicí typu DISTRESS ALERT RELAY.",
+				"answer": "pobřežní stanice takto alarmuje lodě v oblasti tísně z důvodu ověření možnosti jejich operativní součinnosti v místě potřeby a využitelnosti jejich vybavení pro realizaci pomoci, v souladu s přípravou vlastní záchranné akce."
+			},
+			{
+				"question": "Jakou použije pobřežní stanice adresu u DSC zprávy DISTRESS ALERT RELAY pro ALL SHIPS?",
+				"answer": "žádnou, adresa není potřeba"
+			},
+			{
+				"question": "Jakou použije pobřežní stanice adresu u DSC zprávy určené pro konkrétní plavidlo (INDIVIDUAL STATION)?",
+				"answer": "použije se MMSI této stanice"
+			},
+			{
+				"question": "DSC volání DISTRESS ALERT RELAY vyslané pobřežní nebo lodní stanicí všem lodím potvrzují lodní stanice",
+				"answer": "radiotelefonním provozem na kanálu 16"
+			},
+			{
+				"question": "Pilnostní zprávy a DSC",
+				"answer": "pilnostní zprávy se ohlásí pilnostním voláním DSC na kanálu 70, v němž se uvede, na kterém kanálu se bude pilnostní zpráva následně vysílat radiotelefonem"
+			},
+			{
+				"question": "Potvrzování příjmu pilnostních volání DSC provozem",
+				"answer": "příjem pilnostních volání DSC avizujících pilnostní zprávu na pracovním kanálu se nepotvrzuje, lodní stanice se pouze přepne na ohlášený radiotelefonní kanál k vyslechnutí obsahu zprávy."
+			},
+			{
+				"question": "Bezpečnostní zprávy a DSC",
+				"answer": "bezpečnostní zprávy se nejprve ohlásí bezpečnostním voláním DSC na kanálu 70, v němž se uvede, na kterém kanálu se bude bezpečnostní zpráva následně vysílat radiotelefonem"
+			},
+			{
+				"question": "Potvrzování příjmu bezpečnostních volání DSC provozem",
+				"answer": "příjem bezpečnostních volání DSC se na kanálu 70 zásadně nepotvrzuje, plavidlo pouze přepne na ohlášený kanál a přijme bezpečnostní zprávu"
+			},
+			{
+				"question": "Pro jaké námořní oblasti GMDSS je určen EPIRB s pracovním kmitočtem 406 MHz systému COSPAS-SARSAT?",
+				"answer": "všechny oblasti (A1 – A4)"
+			},
+			{
+				"question": "Jaký EPIRB je oficiální součástí systému GMDSS?",
+				"answer": "EPIRB s pracovní frekvencí 406 MHz pro systém COSPAS-SARSAT, nově varianta s vestavěným GPS a s vysíláním dohledávacího signálu 121,5 MHz"
+			},
+			{
+				"question": "Jak se aktivuje EPIRB?",
+				"answer": "aktivuje se manuálně nebo automaticky (pokud je vybaven hydrostatickou pojistkou) po vynoření se z hloubky 4 m, v níž se při potápění lodě automaticky uvolní z držáku "
+			},
+			{
+				"question": "Co jsou NON-SOLAS lodě?",
+				"answer": "jsou to lodě, na něž se nevztahuje úmluva SOLAS, tzn. lodě, které nejsou určeny pro přepravu více než 12 cestujících (passenger ship) a nákladní lodě s prostorností menší než 300 tun (patří sem i malá sportovní a rekreační plavidla)"
+			},
+			{
+				"question": "Hláskovací abeceda: A – E – I",
+				"answer": "A - Alpha, E - Echo, I - India"
+			},
+			{
+				"question": "Hláskovací abeceda: B – F – J",
+				"answer": "B - Bravo, F - Foxtrot, J - Juliett"
+			},
+			{
+				"question": "Hláskovací abeceda: C – G – K",
+				"answer": "C - Charlie, G - Golf, K - Kilo"
+			},
+			{
+				"question": "Hláskovací abeceda: D – H – L",
+				"answer": "D - Delta, H - Hotel, L - Lima"
+			},
+			{
+				"question": "Hláskovací abeceda: M – Q – U",
+				"answer": "M - Mike, Q - Quebec, U - Uniform"
+			},
+			{
+				"question": "Hláskovací abeceda: N – R – V",
+				"answer": "N - November, R - Romeo, V - Victor"
+			},
+			{
+				"question": "Hláskovací abeceda: O – S – W",
+				"answer": "O - Oscar, S - Sierra, W - Whisky"
+			},
+			{
+				"question": "Hláskovací abeceda: P – T – X",
+				"answer": "P - Papa, T - Tango, X - X-ray"
+			},
+			{
+				"question": "Hláskovací abeceda: Y – Z",
+				"answer": "Y - Yankee, Z - Zulu"
+			},
+			{
+				"question": "Při použití mezinárodní hláskovací abecedy se znak „@“ (tzv. zavináč) vyjádří výrazem:",
+				"answer": "AT"
+			},
+			{
+				"question": "PTT je označení tlačítka, jehož stisknutím u zapnuté radiostanice dojde",
+				"answer": "k umožnění vysílání řeči"
+			},
+			{
+				"question": "Správná zkratka pro „Mezinárodní námořní organizace“",
+				"answer": "IMO"
+			},
+			{
+				"question": "Správná zkratka pro „mezinárodní Úmluva o bezpečnosti lidského života na moři“",
+				"answer": "SOLAS"
+			},
+			{
+				"question": "Správná zkratka pro „odpovídač pro účely pátrání a záchrany“",
+				"answer": "SART"
+			},
+			{
+				"question": "Správná zkratka pro „koordinovaný světový čas“",
+				"answer": "UTC"
+			},
+			{
+				"question": "Jaký standardní výraz použijete, pokud ve Vámi vysílané zprávě uděláte chybu a potřebujete ji opravit?",
+				"answer": "CORRECTION"
+			},
+			{
+				"question": "Co znamená standardní výraz I SPELL?",
+				"answer": "budu hláskovat pomocí mezinárodní hláskovací abecedy"
+			},
+			{
+				"question": "Co znamená výraz SAY AGAIN?",
+				"answer": "opakujte (zprávu nebo její část, které jsem nerozuměl)"
+			},
+			{
+				"question": "V jaké situaci použijete výraz I REPEAT?",
+				"answer": "zdůraznění – opakuji část zprávy, která je důležitá"
+			},
+			{
+				"question": "Jaký standardní výraz použijete při žádosti o kontrolu signálu?",
+				"answer": "RADIO CHECK"
+			},
+			{
+				"question": "Správná zkratka pro „identifikační číslo námořní pohyblivé služby",
+				"answer": "MMSI"
+			},
+			{
+				"question": "Správná zkratka pro „rádiová bóje označující místo katastrofy“",
+				"answer": "EPIRB"
+			},
+			{
+				"question": "Výraz „RIJEKA RADIO“ znamená",
+				"answer": "volací značka pobřežní stanice RIJEKA"
+			},
+			{
+				"question": "Výraz „CALLSIGN“ znamená",
+				"answer": "volací značka"
+			},
+			{
+				"question": "Výraz „ROGER“ znamená",
+				"answer": "„rozumím“ (při odpovědi na příkaz)"
+			},
+			{
+				"question": "Výraz „LATITUDE“ znamená",
+				"answer": "zeměpisná šířka"
+			},
+			{
+				"question": "Výraz „LONGITUDE“ znamená",
+				"answer": "zeměpisná délka"
+			},
+			{
+				"question": "Výraz „DEGREE“ znamená",
+				"answer": "stupeň"
+			},
+			{
+				"question": "Zprávy NAVTEX na kmitočtu 518 kHz jsou vysílány v jazyce",
+				"answer": "anglickém"
+			},
+			{
+				"question": "Dosah stanice systému NAVTEX na kmitočtu 518 kHz činí",
+				"answer": "200–400 NM"
+			},
+			{
+				"question": "Přesnost určení místa katastrofy z vysílání EPIRB 406 MHz (bez integrovaného GNSS přijímače) činí zhruba",
+				"answer": "5 km"
+			},
+			{
+				"question": "EPIRB 406 MHz se aktivuje manuálně nebo",
+				"answer": "automaticky pomocí hydrostatické pojistky (pokud je instalována), když se loď potápí"
+			},
+			{
+				"question": "SART 9 GHz slouží k",
+				"answer": "lokalizaci (finálnímu vyhledání) trosečníků na místě katastrofy"
+			},
+			{
+				"question": "Jak může být zvětšen dosah transpondéru SART?",
+				"answer": "SART by měl být umístěn co nejvýše a ve vertikální poloze"
+			},
+			{
+				"question": "Tísňové volání DISTRESS ALERT vyslané omylem z EPIRB v teritoriálních vodách zrušíme",
+				"answer": "na kanálu 16 doporučenou radiotelefonní formulací “Please, cancel my distress alert of (time UTC)“"
+			},
+			{
+				"question": "Průkaz SRC opravňuje k obsluze zařízení pro kmitočty",
+				"answer": "pouze VKV (VHF)"
+			},
+			{
+				"question": "Přeložte do češtiny (pište čitelně, čísla nepište slovy, ale číslicemi): Mayday, this is motor boat Aida, position 36 degrees 55.4 minutes north, 011 degrees 38.2 minutes west, at 0517 UTC collision with an unknown drifting object, immediate assistance required, five persons on board, boat seriously damaged, over.",
+				"answer": "Mayday, tady je motorový člun Aida, na pozici 36 stupňů, 55 celých 4 minut severní šířky a 011 stupňů, 38 celých 2 minut západní délky, v čase 05:17 UTC srážka s neznámým plovoucím objektem, žádáme okamžitou pomoc, pět osob na palubě, člun je vážně poškozený, přepínám."
+			},
+			{
+				"question": "Přeložte do češtiny (piště čitelně, čísla nepište slovy, ale číslicemi): Mayday, yacht Marbello, position exactly north of Cap Gris Nez Lighthouse five nautical miles, crew member has fallen from mast and is badly injured, immediate medical assistance required",
+				"answer": "Mayday, jachta Marbello, pozice přesně na sever od majáku Cap Gris Nez 5 NM, člen posádky spadl ze stěžně a je vážně zraněn, žádáme okamžitou lékařskou pomoc."
+			},
+			{
+				"question": "Přeložte do češtiny (piště čitelně, čísla nepište slovy, ale číslicemi): All stations, this is Belfast Coast Guard. New gale warning issued at 0935 UTC for sea area Hebrides. Gale force 8 with heavy rain expected soon.",
+				"answer": "Všem stanicím, tady je pobřežní stráž Belfast. Nové varování před bouří, vydané v čase 09:35 UTC pro oblast Hebridy. Bouřlivý vítr síly 8 se silným deštěm očekáván brzy."
+			},
+			{
+				"question": "Sestavte tísňovou zprávu v angličtině (piště čitelně, čísla nepište slovy, ale číslicemi): Motorová jachta Hermes, na pozici 50° 24.5' N 001° 23.3' W, loď hoří. 4 osoby, chystáte se opustit loď v záchranném ostrůvku.",
+				"answer": "Mayday, this is motor yacht Hermes, position 50 degrees 24 point 5 minutes north, 001 degrees 23 point 3 minutes west. Boat on fire. Require immediate assistance. 4 persons on board, abandoning to liferaft. Over."
+			},
+			{
+				"question": "Sestavte tísňovou zprávu v angličtině (piště čitelně, čísla nepište slovy, ale číslicemi): Plachetnice Tango, na pozici0 (náměr) 255° od majáku ostrova Brijuni, vzdálenost 2 NM. Loď najela na skálu a potápí se. Na palubě jste 4, z toho 2 děti. Střílíte červené padáčkové světlice.",
+				"answer": "Mayday, sailing yacht Tango. Position 255 degrees from Brijuni island lighthouse, 2 nautical miles. Grounded rock and sinking. Require immediate assistance. 4 persons on board, including 2 children. Firing red parachute rockets. Over."
+			},
+			{
+				"question": "Sestavte tísňovou zprávu v angličtině (piště čitelně, čísla nepište slovy, ale číslicemi): Plachetnice Adria, na pozici 06º 24.3' N 42º 36.7' W. Ztratili jste člena posádky, naštěstí měl záchrannou vestu. Naposledy jste ho viděli v 03:25 místního času. Na lodi jste zbyli 3, po člověku ve vodě stále pátráme.",
+				"answer": "Mayday, yacht Adria. Position 06º 24.3' N 42º 36.7' W. Man overboard. Require immediate assistance. 3 persons on board. Person in water wearing lifejacket. We keep searching. Over."
+			},
+			{
+				"question": "Simplexní provoz je způsob provozu rádiové stanice, který",
+				"answer": "umožňuje přenos zpráv na jednom rádiovém kanálu střídavě v obou směrech, např. pomocí ručního přepínání (příjem/vysílání), přičemž během vysílání zpráv není možný současný příjem zpráv"
+			},
+			{
+				"question": "Duplexní provoz je způsob provozu rádiové stanice, který",
+				"answer": "umožňuje současný přenos zpráv oběma směry a vyžaduje současné využívání dvou kmitočtů"
+			},
+			{
+				"question": "Jste na jachtě Sirius, potřebujete zavolat do mariny Rijeka. Jaký je správný postup navázání spojení?",
+				"answer": "Rijeka marina, Rijeka marina, Rijeka marina, this is yacht Sirius, Sirius, Sirius, over"
+			},
+			{
+				"question": "Jste na lodi jménem “ADRIA”, slyšíte volání adresované vám, ale nerozumíte jméno stanice, která vás volá. Jak správně odpovíte?",
+				"answer": "“Station calling Adria, this is Adria, over.”"
+			},
+			{
+				"question": "Jaký standardní výraz použije stanice kontrolující tísňový provoz pro vyhlášení rádiového klidu?",
+				"answer": "SEELONCE MAYDAY"
+			},
+			{
+				"question": "Co znamená standardní výraz SEELONCE FINI?",
+				"answer": "ukončení rádiového klidu"
+			}
+		]
+	},
+	{
+		"name": "Elektrotechnika a radiotechnika",
+		"slug": "elektrotechnika-a-radiotechnika",
+		"questions": [
+			{
+				"question": "Paralelně řazené akumulátory",
+				"answer": "umožňují dodávat větší proud"
+			},
+			{
+				"question": "Sériově řazené akumulátory",
+				"answer": "se zapojují pro zvýšení dodávaného napětí"
+			},
+			{
+				"question": "Jmenovité napětí článku olověného akumulátoru je",
+				"answer": "2 V"
+			},
+			{
+				"question": "Jmenovité napětí článku alkalického akumulátoru je",
+				"answer": "1,2 V"
+			},
+			{
+				"question": "Jmenovité napětí suchého galvanického článku je",
+				"answer": "1,5 V"
+			},
+			{
+				"question": "Suché galvanické články",
+				"answer": "nelze dobíjet "
+			},
+			{
+				"question": "Antény dělíme podle směru vysílání nebo příjmu na",
+				"answer": "směrové a všesměrové"
+			},
+			{
+				"question": "Všesměrová anténa má vyzařovací charakteristiku",
+				"answer": "kruhovou"
+			},
+			{
+				"question": "Všesměrová anténa musí přijímat nebo vysílat stejně všemi směry",
+				"answer": "v horizontální rovině"
+			},
+			{
+				"question": "Půlvlnný dipól",
+				"answer": "může být směrová i všesměrová anténa, záleží na jeho orientaci k zemskému povrchu"
+			},
+			{
+				"question": "Půlvlnný dipól umístěný rovnoběžně se zemským povrchem",
+				"answer": "má v horizontální rovině osmičkovou vyzařovací charakteristiku"
+			},
+			{
+				"question": "Vztah mezi délkou vlny (λ) a kmitočtem (f), když c je rychlost světla, je",
+				"answer": "f = c / λ"
+			},
+			{
+				"question": "Ampérmetr a voltmetr se při měření zařazují",
+				"answer": "ampérmetr do série se spotřebičem, voltmetr paralelně ke spotřebiči"
+			},
+			{
+				"question": "V suchém, bezprašném prostředí (zamýšlené použití elektrického zařízení nezvyšuje nebezpečí úrazu elektrickým proudem) považujeme při dotyku živých částí zařízení během jeho obsluhy za bezpečná napětí",
+				"answer": "stejnosměrné do 60 V a střídavé do 25 V"
+			},
+			{
+				"question": "Při úrazu elektrickým proudem",
+				"answer": "vyprostíme postiženého z dosahu el. proudu, zavoláme záchrannou službu, provedeme záklon hlavy a dojde-li k selhání základních životních funkcí (tep, puls, vědomí), zahájíme resuscitaci masáží srdce až do příjezdu záchranářů, případně umělým dýcháním."
+			},
+			{
+				"question": "Funkce „SQUELCH“ VKV (VHF) radiostanice je určena",
+				"answer": "k potlačení slabších rušivých signálů včetně vlastního šumu přijímače."
+			},
+			{
+				"question": "Údaj elektrické napětí 2 V lze také zapsat",
+				"answer": "2000 mV"
+			},
+			{
+				"question": "Kmitočet 406 MHz lze také zapsat",
+				"answer": "0,406 GHz"
+			},
+			{
+				"question": "Délka rádiové vlny v pásmu 160 MHz (VKV/VHF) je",
+				"answer": "cca 2 m"
+			},
+			{
+				"question": "Vztah mezi napětím (U), proudem (I) a odporem (R) je:",
+				"answer": "U = R · I"
+			},
+			{
+				"question": "Vztah mezi výkonem (příkonem) (P), napětím (U) a proudem (I) je:",
+				"answer": "P = U · I"
+			},
+			{
+				"question": "Radiostanice odebírající z baterie 12 V proud 500 mA má příkon",
+				"answer": "6 W"
+			},
+			{
+				"question": "Tři dobré vodiče elektřiny jsou",
+				"answer": "měď, zlato, stříbro"
+			},
+			{
+				"question": "Čtyři dobré izolanty jsou",
+				"answer": "sklo, vzduch, plast, porcelán"
+			},
+			{
+				"question": "Ke zdroji 10 V jsou připojeny dva odpory 10 Ω zapojené do série. Odebíraný příkon činí:",
+				"answer": "5 W"
+			},
+			{
+				"question": "Radiotechnická součástka je identifikována jako kondenzátor, pokud se její hodnota měří v",
+				"answer": "pF"
+			},
+			{
+				"question": "Výstupním výkonem stanice se rozumí",
+				"answer": "výkon koncového stupně vysílače dodávaný do napaječe anténního systému"
+			},
+			{
+				"question": "Jaký je přibližně dosah mezi dvěma plachetnicemi, když obě mají anténu na stěžni ve výšce 16 m nad hladinou?",
+				"answer": "asi 16 až 24 NM"
+			},
+			{
+				"question": "Co umožňuje na radiostanici funkce DUAL WATCH?",
+				"answer": "souběžně monitorovat kanál 16 plus jeden další vybraný kanál"
+			},
+			{
+				"question": "Je možné vysílat bez antény?",
+				"answer": "ne, hrozí poškození radiostanice"
+			},
+			{
+				"question": "Kterou vlastnost antény ovlivní náklon lodě?",
+				"answer": "dosah"
+			},
+			{
+				"question": "Co NENÍ možné dělat, když máme stisknuté tlačítko pro vysílání (PTT)?",
+				"answer": "přijímat jiné vysílání"
+			},
+			{
+				"question": "V jakých typech DSC volání je zahrnutá pozice a čas?",
+				"answer": "pouze v tísňovém DSC alarmu (DISTRESS)"
+			},
+			{
+				"question": "Jaká je minimální životnost baterie v radiobóji EPIRB při vysílání?",
+				"answer": "48 hodin"
+			},
+			{
+				"question": "Co z uvedeného NENÍ součástí radiobóje EPIRB?",
+				"answer": "mikrofon"
+			},
+			{
+				"question": "K čemu je v pásmu VHF určený kanál 70?",
+				"answer": "slouží výhradně pro spojení mezi DSC kontroléry, hlasové volání je zakázáno"
+			},
+			{
+				"question": "V jakém kmitočtovém pásmu pracuje lodní VHF radiostanice?",
+				"answer": "156–162 MHz"
+			},
+			{
+				"question": "Jakým způsobem se šíří rádiové vlny v pásmu VHF (VKV)?",
+				"answer": "šíří se přímočaře, neohýbají se podél zemského povrchu ani přes překážky"
+			},
+			{
+				"question": "Na čem závisí délka antény v pásmu VHF?",
+				"answer": "na vlnové délce"
+			},
+			{
+				"question": "Jak zvýšíme dosah antény v pásmu VHF (VKV)?",
+				"answer": "umístíme anténu co nejvýše"
+			}
+		]
+	}
+]
